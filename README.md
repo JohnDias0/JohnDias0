@@ -48,11 +48,9 @@
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  -->
   <br/>
 </div>
-<hr/>
-
+-->
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
