@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭Estou atualmente trabalhando em meu **site para portfólio**
+ 🔭Estou atualmente trabalhando em meu **site para Intenções da Santa Missa para a Paróquia de São Pedro Apóstolo**
  
- 🌱 Estou atualmente estudando **Firebase, Node.js, React Native**
+ 🌱 Estou atualmente estudando **Angular, Node.js**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**-->
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb, angular" /><br>
 </div>
 
 <br/>
